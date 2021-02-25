@@ -17,8 +17,7 @@ class Us extends Component {
             <Card.Body>
               <Card.Title style={{ color: '#000' }} >Amélie LUNEAU</Card.Title>
               <Card.Text style={{ color: '#000' }} >
-                Some quick example text to build on the card title and make up the bulk of
-                the card's content.
+                Développeuse
               </Card.Text>
             </Card.Body>
           </Card>
@@ -27,8 +26,7 @@ class Us extends Component {
             <Card.Body>
               <Card.Title style={{ color: '#000' }} >Maël CHAUVET</Card.Title>
               <Card.Text style={{ color: '#000' }} >
-                Some quick example text to build on the card title and make up the bulk of
-                the card's content.
+                Investigateur du projet
               </Card.Text>
             </Card.Body>
           </Card>
@@ -37,8 +35,7 @@ class Us extends Component {
             <Card.Body>
               <Card.Title style={{ color: '#000' }} >Jérémy CHAUVIN</Card.Title>
               <Card.Text style={{ color: '#000' }} >
-                Some quick example text to build on the card title and make up the bulk of
-                the card's content.
+                Développeur
               </Card.Text>
             </Card.Body>
           </Card>
